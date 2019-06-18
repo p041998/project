@@ -4,9 +4,13 @@ Welcome to kitchen
 kheer
 soup
 chicken
+beans 
+pizza
 
 thank you
 
 
+done with changes
 Final code
+
 
